@@ -89,3 +89,5 @@ Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=
     </td>
   </row>
 </table>
+
+![Snake animation](https://github.com/beatriznonato/beatriznonato/blob/output/github-contribution-grid-snake.svg)
