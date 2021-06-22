@@ -1,6 +1,8 @@
 ![Profile
 Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=GiAraki&countColorcountColor)
 
+
+
 <div align="center">
   <h1>
     <a href="https://fontmeme.com/fonts/kerox-font/"
@@ -20,6 +22,7 @@ Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=
     />
   </a>
 </p>
+<img align="right" src="https://user-images.githubusercontent.com/86260899/122854304-e4a28080-d2e9-11eb-9d3a-9f31c3b87c3a.png" width="260" />
 
 <p align="center">
   Professionally connected to the web development and information technology
@@ -30,6 +33,8 @@ Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=
   2+, custom plugins, features, animations, and coding interactive layouts. I
   have also mobile and back end experience with Ionic, React Native and NodeJS.
 </p>
+
+
 <br />
 
 <p align="center">
