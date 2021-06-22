@@ -3,10 +3,10 @@ Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=
 
 <div align="center">
   <h1>
-    <a href="https://fontmeme.com/fonts/karantina-font/"
+    <a href="https://fontmeme.com/fonts/kerox-font/"
       ><img
-        src="https://fontmeme.com/permalink/210622/d9b9d6743fdad0a42bde5329e0690908.png"
-        alt="karantina-font"
+        src="https://fontmeme.com/permalink/210622/c8d79762d1d4ee356fe794543dbd1706.png"
+        alt="kerox-font"
         border="0"
     /></a>
   </h1>
@@ -20,6 +20,16 @@ Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=
     />
   </a>
 </p>
+
+<p align="center">
+  Professionally connected to the web development and information technology
+  industry for a few years. Well organized person, problem solver, independent
+  employee, with high attention to detail. Lover of reading, outdoor activities,
+  TV series and new technological resources. The main area of my expertise is
+  front end development (client side of the web). Building web apps with Angular
+  2+, custom plugins, features, animations, and coding interactive layouts. I
+  have also mobile and back end experience with Ionic, React Native and NodeJS.
+</p>
 <br />
 
 <p align="center">
@@ -31,7 +41,7 @@ Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=
     alt="Logo AWS"
     src="https://user-images.githubusercontent.com/86260899/122846209-bb7af380-d2db-11eb-9f95-bbf89280075b.png"
   />&nbsp;
-   <img
+  <img
     alt="Logo Azure"
     src="https://user-images.githubusercontent.com/86260899/122846446-3512e180-d2dc-11eb-89c1-48c9e029a98e.png"
   />&nbsp;
@@ -78,16 +88,17 @@ Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=
     <td>
       <img
         height="172"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiAraki&layout=compact&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiAraki&layout=compact&theme=midnight-purple"
       />
     </td>
     <td>
       <img
         height="172"
-        src="https://github-readme-stats.vercel.app/api?username=GiAraki&show_icons=true&theme=dark"
+        src="https://github-readme-stats.vercel.app/api?username=GiAraki&show_icons=true&theme=midnight-purple"
       />
     </td>
   </row>
 </table>
 
-![Snake animation](https://github.com/beatriznonato/beatriznonato/blob/output/github-contribution-grid-snake.svg)
+![Snake
+animation](https://github.com/beatriznonato/beatriznonato/blob/output/github-contribution-grid-snake.svg)
