@@ -90,18 +90,7 @@ Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=
 
 <table>
   <row>
-    <td>
-      <img
-        height="172"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiAraki&layout=compact&theme=midnight-purple"
-      />
-    </td>
-    <td>
-      <img
-        height="172"
-        src="https://github-readme-stats.vercel.app/api?username=GiAraki&show_icons=true&theme=midnight-purple"
-      />
-    </td>
+    
   </row>
 </table>
 
