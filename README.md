@@ -1,8 +1,3 @@
-![Profile
-Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GiAraki&repo=GiAraki&countColorcountColor)
-
-
-
 <div align="center">
   <h1>
     <a href="https://fontmeme.com/fonts/kerox-font/"
