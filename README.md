@@ -21,9 +21,11 @@
 
 <p align="center">
   Front-end Development Expert using Angular 6+.
-
+  </p>
+<p align="center">
 Creating web applications with Angular, custom plugins, features, animations, interactive coding layouts, micro-frontends, design systems, and fully dynamic systems.
-
+</p>
+<p align="center">
 I also have experience with mobile devices using Ionic and backend development with Node.js.
 </p>
 
