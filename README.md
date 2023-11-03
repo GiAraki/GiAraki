@@ -20,13 +20,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/86260899/122854304-e4a28080-d2e9-11eb-9d3a-9f31c3b87c3a.png" width="260" />
 
 <p align="center">
-  Professionally connected to the web development and information technology
-  industry for a few years. Well organized person, problem solver, independent
-  employee, with high attention to detail. Lover of reading, outdoor activities,
-  TV series and new technological resources. The main area of my expertise is
-  front end development (client side of the web). Building web apps with Angular
-  2+, custom plugins, features, animations, and coding interactive layouts. I
-  have also mobile and back end experience with Ionic, React Native and NodeJS.
+  Front-end Development Expert using Angular 6+.
+
+Creating web applications with Angular, custom plugins, features, animations, interactive coding layouts, micro-frontends, design systems, and fully dynamic systems.
+
+I also have experience with mobile devices using Ionic and backend development with Node.js.
 </p>
 
 
