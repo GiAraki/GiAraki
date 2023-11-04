@@ -100,9 +100,3 @@ I also have experience with mobile devices using Ionic and backend development w
   </row>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-![snake animation](https://github.com/GiAraki/GiAraki/blob/output/github-contribution-grid-snake2.svg)
